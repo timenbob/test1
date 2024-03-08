@@ -10,7 +10,7 @@ namespace app1
     {
         static void Main(string[] args)
         {
-            Consol.Writeline("bla");
+            Console.WriteLine("bla popravi");
         }
     }
 }
