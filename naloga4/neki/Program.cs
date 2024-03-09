@@ -10,7 +10,6 @@ namespace neki
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("heloooojevjibevb");
         }
     }
 }
